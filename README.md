@@ -5,7 +5,7 @@ The aim is to demonstrate a running docker container with a spring boot standalo
 web service thus, I've written the web service with Spring Boot as simple. For intensive
 a complete web service example with Spring Boot, you can check out my other repository
 which is [spring-boot-restful-web-service-example
-](https://github.com/bzdgn/spring-boot-restful-web-service-example).
+](https://github.com/Krish9130/spring-boot-java-app/tree/main?tab=readme-ov-file).
 
 TOC
 ---
