@@ -7,12 +7,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("docker-java-app")
+@RequestMapping("/")
 public class HelloController {
-	
-	@RequestMapping(value = "/test", method = RequestMethod.GET)
-	public String test() {
-		return "docker-java-app is up and running: " + new Date();
-	}
+
+        @RequestMapping(value = "", method = RequestMethod.GET)
+        public String test() {
+                return "Hello My name is Krishna & my java application is running: " + new Date();
+        }
 
 }
