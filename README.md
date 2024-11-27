@@ -1,10 +1,14 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64eda4ecba0c065f95e228b611037958081510c9
 Docker Container With Spring Boot Web Service Example
 =====================================================
 The aim is to demonstrate a running docker container with a spring boot standalone
 web service thus, I've written the web service with Spring Boot as simple. For intensive
 a complete web service example with Spring Boot, you can check out my other repository
 which is [spring-boot-restful-web-service-example
-](https://github.com/bzdgn/spring-boot-restful-web-service-example).
+](https://github.com/Krish9130/spring-boot-java-app/tree/main?tab=readme-ov-file).
 
 TOC
 ---
@@ -378,4 +382,8 @@ C:\00_ANA\JavaEE\WS\docker-java-app-example>
 ```
 
 
+<<<<<<< HEAD
 [Go back to TOC](#toc)
+=======
+[Go back to TOC](#toc)
+>>>>>>> 64eda4ecba0c065f95e228b611037958081510c9
