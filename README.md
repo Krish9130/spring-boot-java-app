@@ -379,8 +379,5 @@ C:\00_ANA\JavaEE\WS\docker-java-app-example>
 ```
 
 
-<<<<<<< HEAD
+
 [Go back to TOC](#toc)
-=======
-[Go back to TOC](#toc)
->>>>>>> 64eda4ecba0c065f95e228b611037958081510c9
