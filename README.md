@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 64eda4ecba0c065f95e228b611037958081510c9
 Docker Container With Spring Boot Web Service Example
 =====================================================
 The aim is to demonstrate a running docker container with a spring boot standalone
