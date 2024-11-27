@@ -245,7 +245,7 @@ As you run the command, you can open up your browser, you can go to this url [ht
 Then you will see the container is returning the string message with date as below;
 
 <p align="center">
-	<img src="https://github.com/bzdgn/docker-spring-boot-java-web-service-example/blob/master/screenshots/00_docker_test.PNG" alt="docker-web-test">
+	<img src="![spring-java-app](https://github.com/user-attachments/assets/c17f1bdf-b72e-4daf-8596-ed1c1045a713)">
 </p>
 
 [Go back to TOC](#toc)
