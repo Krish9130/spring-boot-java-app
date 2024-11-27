@@ -21,7 +21,7 @@ TOC
 -------------------------
 The web service we are using in this example is kept as simple as possible for the simplicity
 of demonstrating how to run a docker container. It has a simple controller class which is quite
-straight-forward as it is obvious: [HelloController](https://github.com/bzdgn/docker-spring-boot-java-web-service-example/blob/master/src/main/java/com/levo/dockerexample/controller/HelloController.java)
+straight-forward as it is obvious: [HelloController](https://github.com/Krish9130/spring-boot-java-app/blob/main/src/main/java/com/levo/dockerexample/controller/HelloController.java)
 
 The key thing using a standalone Spring Boot application is to create a **Fat Jar**, also known as
 **Uber Jar**. In order to create the **Uber Jar**, there are two things to be done;
